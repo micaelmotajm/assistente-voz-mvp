@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+backend/assistant.db
+.env
+.DS_Store
